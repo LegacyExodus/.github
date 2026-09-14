@@ -1,7 +1,7 @@
 <div align="center">
 
 <img
-  src="./assets/legacyexodus-banner.png"
+  src="../banner.png"
   alt="LegacyExodus — Knowledge-First Software Modernization"
   width="100%"
 />
