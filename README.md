@@ -1,10 +1,11 @@
 <div align="center">
 
 <img
-  src="../banner.png"
+  src="./banner.png"
   alt="LegacyExodus — Knowledge-First Software Modernization"
   width="100%"
 />
+
 <br />
 
 # LegacyExodus
